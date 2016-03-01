@@ -89,7 +89,7 @@
           })
         )
       );
-    }
+    },
     
     next: function() {
       this.swipe.next();
